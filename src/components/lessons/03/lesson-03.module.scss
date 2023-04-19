@@ -32,10 +32,12 @@
     &.top {
         background-image: url('../../../assets/eye.svg');
         background-color: $charcoal-black;
+        align-items: center;
     }
 
     &.bottom {
         background-image: url('../../../assets/eye.svg');
         background-color: $gold-yellow;
+        justify-content: center;
     }
 }

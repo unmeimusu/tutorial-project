@@ -5,7 +5,7 @@ export default createBoard({
     name: '02 Elements Panel',
     Board: () => <Lesson02 />,
     environmentProps: {
-        windowWidth: 840,
+        windowWidth: 842,
         windowHeight: 630,
     },
 });
